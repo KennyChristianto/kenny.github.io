@@ -1,0 +1,15 @@
+style.css body {
+  min-height: 2000px;
+}
+.jumotron {
+  padding-top: 6rem;
+  background-color: #88cfff;
+}
+
+#projets {
+  background-color: #88cfff;
+}
+
+section {
+  padding-top: 5rem;
+}
